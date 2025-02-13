@@ -1,6 +1,5 @@
 # Survive-Wiki
 
-
 * [Items](/Items.md)
     * [Events](/Items/Events.md)
         * [External](/Items/Events/External.md)
@@ -22,3 +21,5 @@
 |survive       |apple     |Food   |
 |survive       |bread     |Food   |
 |survive       |meat      |Food   |
+
+Check out the example project! [[ Survive ]](https://github.com/P3til/Survive/tree/main/)
